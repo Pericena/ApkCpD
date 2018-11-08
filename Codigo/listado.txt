@@ -1,0 +1,665 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 000000D1 286A:7640
+C:.
+|   ApkCpD.exe
+|   listado.txt
+|   
+\---Tools
+    +---Other
+    |       7za.exe
+    |       apktool.jar
+    |       apktool_2.3.3.jar
+    |       
+    +---Proyectos
+    |   |   base.apk.rar
+    |   |   
+    |   \---base.apk
+    |       |   AndroidManifest.xml
+    |       |   build-data.properties
+    |       |   classes.dex
+    |       |   resources.arsc
+    |       |   
+    |       +---jsr305_annotations
+    |       |       Jsr305_annotations.gwt.xml
+    |       |       
+    |       +---META-INF
+    |       |       CERT.RSA
+    |       |       CERT.SF
+    |       |       MANIFEST.MF
+    |       |       rxjava.properties
+    |       |       
+    |       \---res
+    |           +---anim
+    |           |       abc_fade_in.xml
+    |           |       abc_fade_out.xml
+    |           |       abc_grow_fade_in_from_bottom.xml
+    |           |       abc_popup_enter.xml
+    |           |       abc_popup_exit.xml
+    |           |       abc_shrink_fade_out_from_bottom.xml
+    |           |       abc_slide_in_bottom.xml
+    |           |       abc_slide_in_top.xml
+    |           |       abc_slide_out_bottom.xml
+    |           |       abc_slide_out_top.xml
+    |           |       design_bottom_sheet_slide_in.xml
+    |           |       design_bottom_sheet_slide_out.xml
+    |           |       design_fab_in.xml
+    |           |       design_fab_out.xml
+    |           |       design_snackbar_in.xml
+    |           |       design_snackbar_out.xml
+    |           |       empty.xml
+    |           |       fade_in.xml
+    |           |       fade_in_bigger_to_normal.xml
+    |           |       fade_in_smaller_to_normal.xml
+    |           |       fade_out.xml
+    |           |       fade_out_normal_to_bigger.xml
+    |           |       fade_out_normal_to_smaller.xml
+    |           |       fade_up_in.xml
+    |           |       fade_up_in_faster.xml
+    |           |       fade_up_out.xml
+    |           |       keyboard_slide_down.xml
+    |           |       keyboard_slide_up.xml
+    |           |       push_up_out.xml
+    |           |       scale_down.xml
+    |           |       scale_up.xml
+    |           |       slide_in_bottom.xml
+    |           |       slide_out_bottom.xml
+    |           |       
+    |           +---anim-v21
+    |           |       design_bottom_sheet_slide_in.xml
+    |           |       design_bottom_sheet_slide_out.xml
+    |           |       
+    |           +---animator-v21
+    |           |       design_appbar_state_list_animator.xml
+    |           |       
+    |           +---color
+    |           |       abc_btn_colored_borderless_text_material.xml
+    |           |       abc_btn_colored_text_material.xml
+    |           |       abc_hint_foreground_material_dark.xml
+    |           |       abc_hint_foreground_material_light.xml
+    |           |       abc_primary_text_disable_only_material_dark.xml
+    |           |       abc_primary_text_disable_only_material_light.xml
+    |           |       abc_primary_text_material_dark.xml
+    |           |       abc_primary_text_material_light.xml
+    |           |       abc_search_url_text.xml
+    |           |       abc_secondary_text_material_dark.xml
+    |           |       abc_secondary_text_material_light.xml
+    |           |       abc_tint_btn_checkable.xml
+    |           |       abc_tint_default.xml
+    |           |       abc_tint_edittext.xml
+    |           |       abc_tint_seek_thumb.xml
+    |           |       abc_tint_spinner.xml
+    |           |       abc_tint_switch_thumb.xml
+    |           |       abc_tint_switch_track.xml
+    |           |       design_error.xml
+    |           |       design_tint_password_toggle.xml
+    |           |       switch_thumb_material_dark.xml
+    |           |       switch_thumb_material_light.xml
+    |           |       
+    |           +---color-v11
+    |           |       abc_background_cache_hint_selector_material_dark.xml
+    |           |       abc_background_cache_hint_selector_material_light.xml
+    |           |       
+    |           +---color-v23
+    |           |       abc_btn_colored_borderless_text_material.xml
+    |           |       abc_btn_colored_text_material.xml
+    |           |       abc_color_highlight_material.xml
+    |           |       abc_tint_btn_checkable.xml
+    |           |       abc_tint_default.xml
+    |           |       abc_tint_edittext.xml
+    |           |       abc_tint_seek_thumb.xml
+    |           |       abc_tint_spinner.xml
+    |           |       abc_tint_switch_thumb.xml
+    |           |       abc_tint_switch_track.xml
+    |           |       design_tint_password_toggle.xml
+    |           |       
+    |           +---drawable
+    |           |       abc_btn_borderless_material.xml
+    |           |       abc_btn_check_material.xml
+    |           |       abc_btn_colored_material.xml
+    |           |       abc_btn_default_mtrl_shape.xml
+    |           |       abc_btn_radio_material.xml
+    |           |       abc_cab_background_internal_bg.xml
+    |           |       abc_cab_background_top_material.xml
+    |           |       abc_dialog_material_background.xml
+    |           |       abc_edit_text_material.xml
+    |           |       abc_ic_ab_back_material.xml
+    |           |       abc_ic_arrow_drop_right_black_24dp.xml
+    |           |       abc_ic_clear_material.xml
+    |           |       abc_ic_go_search_api_material.xml
+    |           |       abc_ic_menu_overflow_material.xml
+    |           |       abc_ic_search_api_material.xml
+    |           |       abc_ic_voice_search_api_material.xml
+    |           |       abc_item_background_holo_dark.xml
+    |           |       abc_item_background_holo_light.xml
+    |           |       abc_list_selector_background_transition_holo_dark.xml
+    |           |       abc_list_selector_background_transition_holo_light.xml
+    |           |       abc_list_selector_holo_dark.xml
+    |           |       abc_list_selector_holo_light.xml
+    |           |       abc_ratingbar_indicator_material.xml
+    |           |       abc_ratingbar_material.xml
+    |           |       abc_ratingbar_small_material.xml
+    |           |       abc_seekbar_thumb_material.xml
+    |           |       abc_seekbar_tick_mark_material.xml
+    |           |       abc_seekbar_track_material.xml
+    |           |       abc_spinner_textfield_background_material.xml
+    |           |       abc_switch_thumb_material.xml
+    |           |       abc_tab_indicator_material.xml
+    |           |       abc_textfield_search_material.xml
+    |           |       abc_text_cursor_material.xml
+    |           |       abc_vector_test.xml
+    |           |       button_bg_selector.xml
+    |           |       button_keyboard_bg_selector.xml
+    |           |       button_keyboard_text_selector.xml
+    |           |       button_text_selector.xml
+    |           |       controls_button.xml
+    |           |       controls_button_bg.xml
+    |           |       controls_button_bg_hover.xml
+    |           |       design_bottom_navigation_item_background.xml
+    |           |       design_fab_background.xml
+    |           |       design_password_eye.xml
+    |           |       design_snackbar_background.xml
+    |           |       device_list_gradient.xml
+    |           |       device_type_phone_tablet.xml
+    |           |       drawer_list_item_selector.xml
+    |           |       icon_inapp_control_settings.xml
+    |           |       icon_inapp_disconnect.xml
+    |           |       icon_inapp_gamepad_settings.xml
+    |           |       icon_inapp_quality_settings.xml
+    |           |       icon_inapp_show_keyboard.xml
+    |           |       icon_inapp_toggle_mouse.xml
+    |           |       icon_inapp_toggle_touchpad.xml
+    |           |       ic_download_small_white_selector.xml
+    |           |       ic_keyboard_white_24dp.xml
+    |           |       ic_lock_black_24dp.xml
+    |           |       ic_next_small_white_selector.xml
+    |           |       ic_vibration_black_24dp.xml
+    |           |       logo_welcome.xml
+    |           |       main_background_centered.xml
+    |           |       menu_button_bg.xml
+    |           |       navigation_empty_icon.xml
+    |           |       notification_bg.xml
+    |           |       notification_bg_low.xml
+    |           |       notification_icon_background.xml
+    |           |       notification_tile_bg.xml
+    |           |       open_keyboard_selector.xml
+    |           |       selected.xml
+    |           |       transparent.xml
+    |           |       welcome_screen_bg.png
+    |           |       zzz_analog_button.xml
+    |           |       zzz_analog_socket.xml
+    |           |       zzz_arrows_dpad.xml
+    |           |       zzz_arrows_dpad_shadow.xml
+    |           |       zzz_blue.xml
+    |           |       zzz_button_layer_0_socket.xml
+    |           |       zzz_button_layer_1_socket.xml
+    |           |       zzz_button_layer_2_shadow.xml
+    |           |       zzz_dpad_content.xml
+    |           |       zzz_dpad_gradient.xml
+    |           |       zzz_dpad_mask.xml
+    |           |       zzz_dpad_mask_inset.xml
+    |           |       zzz_dpad_socket.xml
+    |           |       zzz_gray.xml
+    |           |       zzz_gray_wide.xml
+    |           |       zzz_green.xml
+    |           |       zzz_invisible_button.xml
+    |           |       zzz_nougat_content.xml
+    |           |       zzz_nugat_chuj_selector.xml
+    |           |       zzz_nugat_chuj_tlo.xml
+    |           |       zzz_nugat_chuj_tlo_pressed.xml
+    |           |       zzz_red.xml
+    |           |       zzz_toggle_indicator_off.xml
+    |           |       zzz_toggle_indicator_on.xml
+    |           |       zzz_vibrate_content_background.xml
+    |           |       zzz_vibrate_content_background_pressed.xml
+    |           |       zzz_vibrate_disabled.xml
+    |           |       zzz_vibrate_enabled.xml
+    |           |       zzz_vibrate_feedback.xml
+    |           |       zzz_vibrate_feedback_icon.xml
+    |           |       zzz_vibrate_feedback_icon_shadow.xml
+    |           |       zzz_vortex.xml
+    |           |       zzz_vortex_logo.xml
+    |           |       zzz_vortex_logo_scaled.xml
+    |           |       zzz_vortex_nougat.xml
+    |           |       zzz_yellow.xml
+    |           |       
+    |           +---drawable-anydpi-v21
+    |           |       design_ic_visibility.xml
+    |           |       design_ic_visibility_off.xml
+    |           |       
+    |           +---drawable-hdpi-v4
+    |           |       abc_ab_share_pack_mtrl_alpha.9.png
+    |           |       abc_btn_check_to_on_mtrl_000.png
+    |           |       abc_btn_check_to_on_mtrl_015.png
+    |           |       abc_btn_radio_to_on_mtrl_000.png
+    |           |       abc_btn_radio_to_on_mtrl_015.png
+    |           |       abc_btn_switch_to_on_mtrl_00001.9.png
+    |           |       abc_btn_switch_to_on_mtrl_00012.9.png
+    |           |       abc_cab_background_top_mtrl_alpha.9.png
+    |           |       abc_ic_commit_search_api_mtrl_alpha.png
+    |           |       abc_ic_menu_copy_mtrl_am_alpha.png
+    |           |       abc_ic_menu_cut_mtrl_alpha.png
+    |           |       abc_ic_menu_paste_mtrl_am_alpha.png
+    |           |       abc_ic_menu_selectall_mtrl_alpha.png
+    |           |       abc_ic_menu_share_mtrl_alpha.png
+    |           |       abc_ic_star_black_16dp.png
+    |           |       abc_ic_star_black_36dp.png
+    |           |       abc_ic_star_black_48dp.png
+    |           |       abc_ic_star_half_black_16dp.png
+    |           |       abc_ic_star_half_black_36dp.png
+    |           |       abc_ic_star_half_black_48dp.png
+    |           |       abc_list_divider_mtrl_alpha.9.png
+    |           |       abc_list_focused_holo.9.png
+    |           |       abc_list_longpressed_holo.9.png
+    |           |       abc_list_pressed_holo_dark.9.png
+    |           |       abc_list_pressed_holo_light.9.png
+    |           |       abc_list_selector_disabled_holo_dark.9.png
+    |           |       abc_list_selector_disabled_holo_light.9.png
+    |           |       abc_menu_hardkey_panel_mtrl_mult.9.png
+    |           |       abc_popup_background_mtrl_mult.9.png
+    |           |       abc_scrubber_control_off_mtrl_alpha.png
+    |           |       abc_scrubber_control_to_pressed_mtrl_000.png
+    |           |       abc_scrubber_control_to_pressed_mtrl_005.png
+    |           |       abc_scrubber_primary_mtrl_alpha.9.png
+    |           |       abc_scrubber_track_mtrl_alpha.9.png
+    |           |       abc_spinner_mtrl_am_alpha.9.png
+    |           |       abc_switch_track_mtrl_alpha.9.png
+    |           |       abc_tab_indicator_mtrl_alpha.9.png
+    |           |       abc_textfield_activated_mtrl_alpha.9.png
+    |           |       abc_textfield_default_mtrl_alpha.9.png
+    |           |       abc_textfield_search_activated_mtrl_alpha.9.png
+    |           |       abc_textfield_search_default_mtrl_alpha.9.png
+    |           |       abc_text_select_handle_left_mtrl_dark.png
+    |           |       abc_text_select_handle_left_mtrl_light.png
+    |           |       abc_text_select_handle_middle_mtrl_dark.png
+    |           |       abc_text_select_handle_middle_mtrl_light.png
+    |           |       abc_text_select_handle_right_mtrl_dark.png
+    |           |       abc_text_select_handle_right_mtrl_light.png
+    |           |       design_ic_visibility.png
+    |           |       design_ic_visibility_off.png
+    |           |       icon_error.png
+    |           |       icon_inapp_trashcan.png
+    |           |       ic_arrow_downward_white_24dp.png
+    |           |       ic_arrow_forward_white_24dp.png
+    |           |       main_background.png
+    |           |       notification_bg_low_normal.9.png
+    |           |       notification_bg_low_pressed.9.png
+    |           |       notification_bg_normal.9.png
+    |           |       notification_bg_normal_pressed.9.png
+    |           |       notify_panel_notification_icon_bg.png
+    |           |       sym_keyboard_delete.png
+    |           |       sym_keyboard_done.png
+    |           |       vortex_logo.png
+    |           |       
+    |           +---drawable-ldrtl-hdpi-v17
+    |           |       abc_ic_menu_copy_mtrl_am_alpha.png
+    |           |       abc_ic_menu_cut_mtrl_alpha.png
+    |           |       abc_spinner_mtrl_am_alpha.9.png
+    |           |       
+    |           +---drawable-ldrtl-mdpi-v17
+    |           |       abc_ic_menu_copy_mtrl_am_alpha.png
+    |           |       abc_ic_menu_cut_mtrl_alpha.png
+    |           |       abc_spinner_mtrl_am_alpha.9.png
+    |           |       
+    |           +---drawable-ldrtl-xhdpi-v17
+    |           |       abc_ic_menu_copy_mtrl_am_alpha.png
+    |           |       abc_ic_menu_cut_mtrl_alpha.png
+    |           |       abc_spinner_mtrl_am_alpha.9.png
+    |           |       
+    |           +---drawable-ldrtl-xxhdpi-v17
+    |           |       abc_ic_menu_copy_mtrl_am_alpha.png
+    |           |       abc_ic_menu_cut_mtrl_alpha.png
+    |           |       abc_spinner_mtrl_am_alpha.9.png
+    |           |       
+    |           +---drawable-ldrtl-xxxhdpi-v17
+    |           |       abc_ic_menu_copy_mtrl_am_alpha.png
+    |           |       abc_ic_menu_cut_mtrl_alpha.png
+    |           |       abc_spinner_mtrl_am_alpha.9.png
+    |           |       
+    |           +---drawable-mdpi-v4
+    |           |       abc_ab_share_pack_mtrl_alpha.9.png
+    |           |       abc_btn_check_to_on_mtrl_000.png
+    |           |       abc_btn_check_to_on_mtrl_015.png
+    |           |       abc_btn_radio_to_on_mtrl_000.png
+    |           |       abc_btn_radio_to_on_mtrl_015.png
+    |           |       abc_btn_switch_to_on_mtrl_00001.9.png
+    |           |       abc_btn_switch_to_on_mtrl_00012.9.png
+    |           |       abc_cab_background_top_mtrl_alpha.9.png
+    |           |       abc_ic_commit_search_api_mtrl_alpha.png
+    |           |       abc_ic_menu_copy_mtrl_am_alpha.png
+    |           |       abc_ic_menu_cut_mtrl_alpha.png
+    |           |       abc_ic_menu_paste_mtrl_am_alpha.png
+    |           |       abc_ic_menu_selectall_mtrl_alpha.png
+    |           |       abc_ic_menu_share_mtrl_alpha.png
+    |           |       abc_ic_star_black_16dp.png
+    |           |       abc_ic_star_black_36dp.png
+    |           |       abc_ic_star_black_48dp.png
+    |           |       abc_ic_star_half_black_16dp.png
+    |           |       abc_ic_star_half_black_36dp.png
+    |           |       abc_ic_star_half_black_48dp.png
+    |           |       abc_list_divider_mtrl_alpha.9.png
+    |           |       abc_list_focused_holo.9.png
+    |           |       abc_list_longpressed_holo.9.png
+    |           |       abc_list_pressed_holo_dark.9.png
+    |           |       abc_list_pressed_holo_light.9.png
+    |           |       abc_list_selector_disabled_holo_dark.9.png
+    |           |       abc_list_selector_disabled_holo_light.9.png
+    |           |       abc_menu_hardkey_panel_mtrl_mult.9.png
+    |           |       abc_popup_background_mtrl_mult.9.png
+    |           |       abc_scrubber_control_off_mtrl_alpha.png
+    |           |       abc_scrubber_control_to_pressed_mtrl_000.png
+    |           |       abc_scrubber_control_to_pressed_mtrl_005.png
+    |           |       abc_scrubber_primary_mtrl_alpha.9.png
+    |           |       abc_scrubber_track_mtrl_alpha.9.png
+    |           |       abc_spinner_mtrl_am_alpha.9.png
+    |           |       abc_switch_track_mtrl_alpha.9.png
+    |           |       abc_tab_indicator_mtrl_alpha.9.png
+    |           |       abc_textfield_activated_mtrl_alpha.9.png
+    |           |       abc_textfield_default_mtrl_alpha.9.png
+    |           |       abc_textfield_search_activated_mtrl_alpha.9.png
+    |           |       abc_textfield_search_default_mtrl_alpha.9.png
+    |           |       abc_text_select_handle_left_mtrl_dark.png
+    |           |       abc_text_select_handle_left_mtrl_light.png
+    |           |       abc_text_select_handle_middle_mtrl_dark.png
+    |           |       abc_text_select_handle_middle_mtrl_light.png
+    |           |       abc_text_select_handle_right_mtrl_dark.png
+    |           |       abc_text_select_handle_right_mtrl_light.png
+    |           |       design_ic_visibility.png
+    |           |       design_ic_visibility_off.png
+    |           |       icon_inapp_trashcan.png
+    |           |       ic_arrow_downward_white_24dp.png
+    |           |       ic_arrow_forward_white_24dp.png
+    |           |       notification_bg_low_normal.9.png
+    |           |       notification_bg_low_pressed.9.png
+    |           |       notification_bg_normal.9.png
+    |           |       notification_bg_normal_pressed.9.png
+    |           |       notify_panel_notification_icon_bg.png
+    |           |       
+    |           +---drawable-v21
+    |           |       abc_action_bar_item_background_material.xml
+    |           |       abc_btn_colored_material.xml
+    |           |       abc_edit_text_material.xml
+    |           |       abc_ratingbar_indicator_material.xml
+    |           |       abc_ratingbar_material.xml
+    |           |       abc_ratingbar_small_material.xml
+    |           |       avd_hide_password.xml
+    |           |       avd_hide_password_1.xml
+    |           |       avd_hide_password_2.xml
+    |           |       avd_hide_password_3.xml
+    |           |       avd_show_password.xml
+    |           |       avd_show_password_1.xml
+    |           |       avd_show_password_2.xml
+    |           |       avd_show_password_3.xml
+    |           |       button_bg_selector.xml
+    |           |       button_keyboard_bg_selector.xml
+    |           |       design_bottom_navigation_item_background.xml
+    |           |       design_password_eye.xml
+    |           |       notification_action_background.xml
+    |           |       
+    |           +---drawable-v23
+    |           |       abc_control_background_material.xml
+    |           |       
+    |           +---drawable-xhdpi-v4
+    |           |       abc_ab_share_pack_mtrl_alpha.9.png
+    |           |       abc_btn_check_to_on_mtrl_000.png
+    |           |       abc_btn_check_to_on_mtrl_015.png
+    |           |       abc_btn_radio_to_on_mtrl_000.png
+    |           |       abc_btn_radio_to_on_mtrl_015.png
+    |           |       abc_btn_switch_to_on_mtrl_00001.9.png
+    |           |       abc_btn_switch_to_on_mtrl_00012.9.png
+    |           |       abc_cab_background_top_mtrl_alpha.9.png
+    |           |       abc_ic_commit_search_api_mtrl_alpha.png
+    |           |       abc_ic_menu_copy_mtrl_am_alpha.png
+    |           |       abc_ic_menu_cut_mtrl_alpha.png
+    |           |       abc_ic_menu_paste_mtrl_am_alpha.png
+    |           |       abc_ic_menu_selectall_mtrl_alpha.png
+    |           |       abc_ic_menu_share_mtrl_alpha.png
+    |           |       abc_ic_star_black_16dp.png
+    |           |       abc_ic_star_black_36dp.png
+    |           |       abc_ic_star_black_48dp.png
+    |           |       abc_ic_star_half_black_16dp.png
+    |           |       abc_ic_star_half_black_36dp.png
+    |           |       abc_ic_star_half_black_48dp.png
+    |           |       abc_list_divider_mtrl_alpha.9.png
+    |           |       abc_list_focused_holo.9.png
+    |           |       abc_list_longpressed_holo.9.png
+    |           |       abc_list_pressed_holo_dark.9.png
+    |           |       abc_list_pressed_holo_light.9.png
+    |           |       abc_list_selector_disabled_holo_dark.9.png
+    |           |       abc_list_selector_disabled_holo_light.9.png
+    |           |       abc_menu_hardkey_panel_mtrl_mult.9.png
+    |           |       abc_popup_background_mtrl_mult.9.png
+    |           |       abc_scrubber_control_off_mtrl_alpha.png
+    |           |       abc_scrubber_control_to_pressed_mtrl_000.png
+    |           |       abc_scrubber_control_to_pressed_mtrl_005.png
+    |           |       abc_scrubber_primary_mtrl_alpha.9.png
+    |           |       abc_scrubber_track_mtrl_alpha.9.png
+    |           |       abc_spinner_mtrl_am_alpha.9.png
+    |           |       abc_switch_track_mtrl_alpha.9.png
+    |           |       abc_tab_indicator_mtrl_alpha.9.png
+    |           |       abc_textfield_activated_mtrl_alpha.9.png
+    |           |       abc_textfield_default_mtrl_alpha.9.png
+    |           |       abc_textfield_search_activated_mtrl_alpha.9.png
+    |           |       abc_textfield_search_default_mtrl_alpha.9.png
+    |           |       abc_text_select_handle_left_mtrl_dark.png
+    |           |       abc_text_select_handle_left_mtrl_light.png
+    |           |       abc_text_select_handle_middle_mtrl_dark.png
+    |           |       abc_text_select_handle_middle_mtrl_light.png
+    |           |       abc_text_select_handle_right_mtrl_dark.png
+    |           |       abc_text_select_handle_right_mtrl_light.png
+    |           |       design_ic_visibility.png
+    |           |       design_ic_visibility_off.png
+    |           |       icon_inapp_trashcan.png
+    |           |       ic_arrow_downward_white_24dp.png
+    |           |       ic_arrow_forward_white_24dp.png
+    |           |       notification_bg_low_normal.9.png
+    |           |       notification_bg_low_pressed.9.png
+    |           |       notification_bg_normal.9.png
+    |           |       notification_bg_normal_pressed.9.png
+    |           |       notify_panel_notification_icon_bg.png
+    |           |       
+    |           +---drawable-xxhdpi-v4
+    |           |       abc_ab_share_pack_mtrl_alpha.9.png
+    |           |       abc_btn_check_to_on_mtrl_000.png
+    |           |       abc_btn_check_to_on_mtrl_015.png
+    |           |       abc_btn_radio_to_on_mtrl_000.png
+    |           |       abc_btn_radio_to_on_mtrl_015.png
+    |           |       abc_btn_switch_to_on_mtrl_00001.9.png
+    |           |       abc_btn_switch_to_on_mtrl_00012.9.png
+    |           |       abc_cab_background_top_mtrl_alpha.9.png
+    |           |       abc_ic_commit_search_api_mtrl_alpha.png
+    |           |       abc_ic_menu_copy_mtrl_am_alpha.png
+    |           |       abc_ic_menu_cut_mtrl_alpha.png
+    |           |       abc_ic_menu_paste_mtrl_am_alpha.png
+    |           |       abc_ic_menu_selectall_mtrl_alpha.png
+    |           |       abc_ic_menu_share_mtrl_alpha.png
+    |           |       abc_ic_star_black_16dp.png
+    |           |       abc_ic_star_black_36dp.png
+    |           |       abc_ic_star_black_48dp.png
+    |           |       abc_ic_star_half_black_16dp.png
+    |           |       abc_ic_star_half_black_36dp.png
+    |           |       abc_ic_star_half_black_48dp.png
+    |           |       abc_list_divider_mtrl_alpha.9.png
+    |           |       abc_list_focused_holo.9.png
+    |           |       abc_list_longpressed_holo.9.png
+    |           |       abc_list_pressed_holo_dark.9.png
+    |           |       abc_list_pressed_holo_light.9.png
+    |           |       abc_list_selector_disabled_holo_dark.9.png
+    |           |       abc_list_selector_disabled_holo_light.9.png
+    |           |       abc_menu_hardkey_panel_mtrl_mult.9.png
+    |           |       abc_popup_background_mtrl_mult.9.png
+    |           |       abc_scrubber_control_off_mtrl_alpha.png
+    |           |       abc_scrubber_control_to_pressed_mtrl_000.png
+    |           |       abc_scrubber_control_to_pressed_mtrl_005.png
+    |           |       abc_scrubber_primary_mtrl_alpha.9.png
+    |           |       abc_scrubber_track_mtrl_alpha.9.png
+    |           |       abc_spinner_mtrl_am_alpha.9.png
+    |           |       abc_switch_track_mtrl_alpha.9.png
+    |           |       abc_tab_indicator_mtrl_alpha.9.png
+    |           |       abc_textfield_activated_mtrl_alpha.9.png
+    |           |       abc_textfield_default_mtrl_alpha.9.png
+    |           |       abc_textfield_search_activated_mtrl_alpha.9.png
+    |           |       abc_textfield_search_default_mtrl_alpha.9.png
+    |           |       abc_text_select_handle_left_mtrl_dark.png
+    |           |       abc_text_select_handle_left_mtrl_light.png
+    |           |       abc_text_select_handle_middle_mtrl_dark.png
+    |           |       abc_text_select_handle_middle_mtrl_light.png
+    |           |       abc_text_select_handle_right_mtrl_dark.png
+    |           |       abc_text_select_handle_right_mtrl_light.png
+    |           |       design_ic_visibility.png
+    |           |       design_ic_visibility_off.png
+    |           |       game_details_gradient.png
+    |           |       icon_inapp_trashcan.png
+    |           |       ic_arrow_downward_white_24dp.png
+    |           |       ic_arrow_forward_white_24dp.png
+    |           |       
+    |           +---drawable-xxxhdpi-v4
+    |           |       abc_btn_check_to_on_mtrl_000.png
+    |           |       abc_btn_check_to_on_mtrl_015.png
+    |           |       abc_btn_radio_to_on_mtrl_000.png
+    |           |       abc_btn_radio_to_on_mtrl_015.png
+    |           |       abc_btn_switch_to_on_mtrl_00001.9.png
+    |           |       abc_btn_switch_to_on_mtrl_00012.9.png
+    |           |       abc_ic_menu_copy_mtrl_am_alpha.png
+    |           |       abc_ic_menu_cut_mtrl_alpha.png
+    |           |       abc_ic_menu_paste_mtrl_am_alpha.png
+    |           |       abc_ic_menu_selectall_mtrl_alpha.png
+    |           |       abc_ic_menu_share_mtrl_alpha.png
+    |           |       abc_ic_star_black_16dp.png
+    |           |       abc_ic_star_black_36dp.png
+    |           |       abc_ic_star_black_48dp.png
+    |           |       abc_ic_star_half_black_16dp.png
+    |           |       abc_ic_star_half_black_36dp.png
+    |           |       abc_ic_star_half_black_48dp.png
+    |           |       abc_scrubber_control_to_pressed_mtrl_000.png
+    |           |       abc_scrubber_control_to_pressed_mtrl_005.png
+    |           |       abc_spinner_mtrl_am_alpha.9.png
+    |           |       abc_switch_track_mtrl_alpha.9.png
+    |           |       abc_tab_indicator_mtrl_alpha.9.png
+    |           |       abc_text_select_handle_left_mtrl_dark.png
+    |           |       abc_text_select_handle_left_mtrl_light.png
+    |           |       abc_text_select_handle_right_mtrl_dark.png
+    |           |       abc_text_select_handle_right_mtrl_light.png
+    |           |       design_ic_visibility.png
+    |           |       design_ic_visibility_off.png
+    |           |       icon_inapp_trashcan.png
+    |           |       ic_arrow_downward_white_24dp.png
+    |           |       ic_arrow_forward_white_24dp.png
+    |           |       key_background.xml
+    |           |       key_background_default.xml
+    |           |       key_background_selected.xml
+    |           |       
+    |           +---layout
+    |           |       abc_action_bar_title_item.xml
+    |           |       abc_action_bar_up_container.xml
+    |           |       abc_action_bar_view_list_nav_layout.xml
+    |           |       abc_action_menu_item_layout.xml
+    |           |       abc_action_menu_layout.xml
+    |           |       abc_action_mode_bar.xml
+    |           |       abc_action_mode_close_item_material.xml
+    |           |       abc_activity_chooser_view.xml
+    |           |       abc_activity_chooser_view_list_item.xml
+    |           |       abc_alert_dialog_button_bar_material.xml
+    |           |       abc_alert_dialog_material.xml
+    |           |       abc_alert_dialog_title_material.xml
+    |           |       abc_dialog_title_material.xml
+    |           |       abc_expanded_menu_layout.xml
+    |           |       abc_list_menu_item_checkbox.xml
+    |           |       abc_list_menu_item_icon.xml
+    |           |       abc_list_menu_item_layout.xml
+    |           |       abc_list_menu_item_radio.xml
+    |           |       abc_popup_menu_header_item_layout.xml
+    |           |       abc_popup_menu_item_layout.xml
+    |           |       abc_screen_content_include.xml
+    |           |       abc_screen_simple.xml
+    |           |       abc_screen_simple_overlay_action_mode.xml
+    |           |       abc_screen_toolbar.xml
+    |           |       abc_search_dropdown_item_icons_2line.xml
+    |           |       abc_search_view.xml
+    |           |       abc_select_dialog_material.xml
+    |           |       activity_remote2.xml
+    |           |       activity_select_server.xml
+    |           |       activity_welcome.xml
+    |           |       design_bottom_navigation_item.xml
+    |           |       design_bottom_sheet_dialog.xml
+    |           |       design_layout_snackbar.xml
+    |           |       design_layout_snackbar_include.xml
+    |           |       design_layout_tab_icon.xml
+    |           |       design_layout_tab_text.xml
+    |           |       design_menu_item_action_area.xml
+    |           |       design_navigation_item.xml
+    |           |       design_navigation_item_header.xml
+    |           |       design_navigation_item_separator.xml
+    |           |       design_navigation_item_subheader.xml
+    |           |       design_navigation_menu.xml
+    |           |       design_navigation_menu_item.xml
+    |           |       design_text_input_password_icon.xml
+    |           |       horizontal_list_view_item.xml
+    |           |       notification_action.xml
+    |           |       notification_action_tombstone.xml
+    |           |       notification_template_icon_group.xml
+    |           |       notification_template_lines_media.xml
+    |           |       notification_template_media.xml
+    |           |       notification_template_media_custom.xml
+    |           |       notification_template_part_chronometer.xml
+    |           |       notification_template_part_time.xml
+    |           |       select_dialog_item_material.xml
+    |           |       select_dialog_multichoice_material.xml
+    |           |       select_dialog_singlechoice_material.xml
+    |           |       server_chooser_item.xml
+    |           |       support_simple_spinner_dropdown_item.xml
+    |           |       toggle_button.xml
+    |           |       toggle_button2.xml
+    |           |       
+    |           +---layout-sw600dp-v13
+    |           |       design_layout_snackbar.xml
+    |           |       
+    |           +---layout-v11
+    |           |       notification_media_action.xml
+    |           |       notification_media_cancel_action.xml
+    |           |       notification_template_big_media.xml
+    |           |       notification_template_big_media_custom.xml
+    |           |       notification_template_big_media_narrow.xml
+    |           |       notification_template_big_media_narrow_custom.xml
+    |           |       
+    |           +---layout-v16
+    |           |       notification_template_custom_big.xml
+    |           |       
+    |           +---layout-v21
+    |           |       abc_screen_toolbar.xml
+    |           |       notification_action.xml
+    |           |       notification_action_tombstone.xml
+    |           |       notification_template_custom_big.xml
+    |           |       notification_template_icon_group.xml
+    |           |       
+    |           +---layout-v22
+    |           |       abc_alert_dialog_button_bar_material.xml
+    |           |       
+    |           +---menu
+    |           |       dpad_select_menu.xml
+    |           |       joystick_select_menu.xml
+    |           |       menu_main.xml
+    |           |       mouse_button_select_menu.xml
+    |           |       xinput_widget_select_menu.xml
+    |           |       
+    |           +---mipmap-hdpi-v4
+    |           |       ic_launcher.png
+    |           |       
+    |           +---mipmap-mdpi-v4
+    |           |       ic_launcher.png
+    |           |       
+    |           +---mipmap-xhdpi-v4
+    |           |       ic_launcher.png
+    |           |       
+    |           +---mipmap-xxhdpi-v4
+    |           |       ic_launcher.png
+    |           |       
+    |           +---mipmap-xxxhdpi-v4
+    |           |       ic_launcher.png
+    |           |       
+    |           \---raw
+    |                   off.wav
+    |                   on.wav
+    |                   
+    \---Proyectos-apk-Compilados
+            base.apk
+            
