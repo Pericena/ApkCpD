@@ -6,7 +6,7 @@ ApkªDcx
   <br>
 </h1>
 
-[![ApkDcx](https://github.com/Pericena/ApkDcx/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png)](https://lpericena.blogspot.com/2018/11/ApkDcx.html)
+[![ApkDcx]https://3.bp.blogspot.com/--j7sDD8DhAE/W-PTughSLNI/AAAAAAAAMrs/EiyIkHxxUdkTa75gJV7_TTnissvO4J0PwCLcBGAs/s1600/Screenshot_10.png)](https://lpericena.blogspot.com/2018/11/ApkDcx.html)
 https://lpericena.blogspot.com/2018/11/ApkDcx.html
 
 <p align="center">
@@ -16,7 +16,6 @@ https://lpericena.blogspot.com/2018/11/ApkDcx.html
 </p>
 
 
-Ocultar archivos comprimidos en una imagen
 @Pericena :+1: Autor: Luishiño Pericena Ch :shipit:
 
 Es una programa desarrollado en Bat.
@@ -25,7 +24,7 @@ Los programas nos ayudara a poder descomprimir o descompilar las aplicaciones qu
 Podemos mejorar una aplicación ya que tendremos el código fuente, podríamos infectar una aplicación con virus entre otras cosas. Para eso debes tener conocimiento en programación con el lenguaje Android.
 * Debe tener instalado el programa JAVA. 
 * Descargar nueva versión https://www.java.com/es/download/
-https://www.lpericena.tk/2018/11/ApkCpD.html
+- https://www.lpericena.tk/2018/11/ApkCpD.html
 
 
 # Instrucción 🚀
