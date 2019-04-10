@@ -1,5 +1,4 @@
 <h1 align="center">
-  <a href="https://github.com/Pericena/ApkDcx/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png" alt="Standard - JavaScript Style Guide" width="200"></a>
   <br>
 ApkªDcx
   <br>
