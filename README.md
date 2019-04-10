@@ -5,9 +5,9 @@ ApkªDcx
   <br>
 </h1>
 
-[![ApkDcx]https://3.bp.blogspot.com/--j7sDD8DhAE/W-PTughSLNI/AAAAAAAAMrs/EiyIkHxxUdkTa75gJV7_TTnissvO4J0PwCLcBGAs/s1600/Screenshot_10.png)](https://lpericena.blogspot.com/2018/11/ApkDcx.html)
+[![ApkDcx](https://4.bp.blogspot.com/--aHSf0LTghk/W-PTu9OwJXI/AAAAAAAAMrw/8iW5GjYItHIw3p3amJo-VH0qPxvVroleACLcBGAs/s1600/Screenshot_3.png)](https://lpericena.blogspot.com/2018/11/ApkDcx.html)
 https://lpericena.blogspot.com/2018/11/ApkDcx.html
-
+https://www.lpericena.tk/2018/11/ApkCpD.html
 <p align="center">
   <a href="https://github.com/Pericena/ApkDcx/tree/master/Documentos"><img src="https://img.shields.io/travis/feross/standard/master.svg" alt="Documentación"></a>
   <a href="https://github.com/Pericena/ApkDcx/tree/master/Codigo"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Código"></a>
